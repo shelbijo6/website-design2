@@ -1,0 +1,33 @@
+* {
+  font-family: 'BioRhyme', serif;
+}
+
+h3 {
+  color: #CBCBCB;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  float: right;
+  padding: 5px;
+  color: #CBCBCB;
+}
+
+#wrapper {
+  padding: 95px;
+  background: #ff3b3f;
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+#photos img {
+  height: 200px;
+  width: 300px;
+  padding: 25px;
+  display: inline;
+}
