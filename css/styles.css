@@ -3,18 +3,19 @@
 }
 
 h3 {
-  color: #CBCBCB;
+  color: #a9a9a9;
 }
 
-ul {
-  list-style: none;
-}
-
-li {
-  display: inline;
+a {
+  padding: 25px;
+  color: #a9a9a9;
   float: right;
-  padding: 5px;
-  color: #CBCBCB;
+  word-spacing: -2px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
 }
 
 #wrapper {
@@ -25,9 +26,14 @@ li {
   color: white;
 }
 
-#photos img {
+img {
   height: 200px;
   width: 300px;
   padding: 25px;
   display: inline;
+}
+
+footer {
+  text-align: center;
+  color: #a9a9a9;
 }
