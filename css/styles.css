@@ -8,11 +8,11 @@ h3 {
 }
 
 a {
-  padding: 25px;
   color: #a9a9a9;
-  float: right;
   word-spacing: -2px;
   text-decoration: none;
+  padding: 17px;
+  float: right;
 }
 
 a:hover {
