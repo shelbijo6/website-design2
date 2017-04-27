@@ -4,7 +4,8 @@
 
 h3 {
   color: #a9a9a9;
-  font-size: 22px;
+  font-size: 25px;
+  float: right;
 }
 
 a {
@@ -12,15 +13,17 @@ a {
   word-spacing: -2px;
   text-decoration: none;
   padding: 17px;
-  float: right;
 }
 
 a:hover {
-  color: #fff;
+  text-decoration: underline;
+}
+
+p {
+  padding: 90px;
 }
 
 #wrapper {
-  padding: 95px;
   background: #ff3b3f;
   text-align: center;
   font-size: 40px;
@@ -36,6 +39,7 @@ img {
   height: 200px;
   width: 300px;
   padding: 25px;
+  max-width: 100%;
 }
 
 footer {
